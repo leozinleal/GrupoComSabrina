@@ -6,4 +6,12 @@ In hac habitasse platea dictumst. Sed consequat fringilla condimentum. Pellentes
 
 Nam a justo vitae nulla ornare dapibus. Donec consectetur metus eu felis scelerisque, sit amet finibus risus ornare. Nunc non dolor ullamcorper, sollicitudin mi quis, gravida nisi. Sed a finibus odio. Nulla facilisi. Ut volutpat luctus massa vitae maximus. Aliquam et condimentum felis, ac porta augue.
 
-Phasellus nec consequat orci, eu finibus nulla. Nam euismod elit vitae mauris volutpat, ut maximus tellus porta. Donec lobortis aliquet tincidunt. Sed dictum est et rutrum posuere. Curabitur tincidunt, ex a hendrerit porttitor, ipsum ligula ornare eros, ac fringilla sapien sapien nec ligula. Nulla luctus interdum eros at sollicitudin. Maecenas leo mi, ornare eget rhoncus egestas, varius at tellus.
+Phasellus nec consequat orci, eu finibus nulla. Nam euismod elit vitae mauris volutpat, ut maximus tellus porta. Donec lo
+bortis aliquet tincidunt. Sed dictum est et rutrum posuere. Curabitur tincidunt, ex a hendrerit porttitor, ipsum ligula ornare eros, ac fringilla sapien sapien nec ligula. Nulla luctus interdum eros at sollicitudin. Maec
+enas leo mi, ornare eget rhoncus egestas, varius at tellus.
+
+
+
+alteração 15 e 17
+
+alteração 15 e 17
