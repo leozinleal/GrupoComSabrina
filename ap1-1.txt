@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 altera��o 15 alteração 15 - sabrina alteração 15 e 17
 
 altera��o 17 alteração 17 - sabrina alteração 15 e 17
@@ -13,3 +14,7 @@ Nam a justo vitae nulla ornare dapibus. Donec consectetur metus eu felis sceleri
 Phasellus nec consequat orci, eu finibus nulla. Nam euismod elit vitae mauris volutpat, ut maximus tellus porta. Donec lo
 bortis aliquet tincidunt. Sed dictum est et rutrum posuere. Curabitur tincidunt, ex a hendrerit porttitor, ipsum ligula ornare eros, ac fringilla sapien sapien nec ligula. Nulla luctus interdum eros at sollicitudin. Maec
 enas leo mi, ornare eget rhoncus egestas, varius at tellus.
+=======
+Alteração 1 Leonardo
+Alteração 2 Leonardo
+>>>>>>> featureleozinleal
